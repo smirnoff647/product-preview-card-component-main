@@ -54,7 +54,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use <source> tags wrapped by <picture> tag to add multiple sources for a <img> depending on screen width.
+Use ``<source>`` tags wrapped by ``<picture>`` tag to add multiple sources for a ``<img>`` depending on screen width.
 
 To see how you can add code snippets, see below:
 
